@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarakram1" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadumarakram1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarakram1" />
 </p>
