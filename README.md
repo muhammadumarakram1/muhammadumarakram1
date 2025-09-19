@@ -57,8 +57,8 @@ Backend-first · Full-stack capable
 ---
 
 ## Let’s connect
-* **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/muhammadumarakram1)  
-* **Twitter:** [@YOUR_HANDLE](https://twitter.com/umar_akram1)
+* **LinkedIn:** [linkedin.com/in/muhammadumarakram1](https://linkedin.com/in/muhammadumarakram1)  
+* **Twitter:** [@umar_akram1](https://twitter.com/umar_akram1)
 
 ---
 
