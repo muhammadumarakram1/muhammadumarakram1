@@ -19,16 +19,16 @@ Backend-first · Full-stack capable
 
 | &nbsp; | &nbsp; |
 |---|---|
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C# |
-| **Runtime** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Node.js |
-| **Back-end frameworks** | <img src="https://img.shields.io/badge/--.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" height="20"/> |
-| **Front-end frameworks** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React · <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="20"/> |
-| **Libraries / Toolkits** | <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-LangChain-00B3A4?style=flat-square&logo=data&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-BullMQ-D72631?style=flat-square&logo=redis&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-Hangfire-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-n8n-F65A2A?style=flat-square&logo=n8n&logoColor=white" height="20"/> |
-| **Messaging / Streaming** | <img src="https://img.shields.io/badge/-NATS-258EA5?style=flat-square&logo=nats.io&logoColor=white" height="20"/> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="20"/> Kafka |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL / MariaDB · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20"/> MS SQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB |
-| **Caching** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20"/> Redis |
-| **Dev-Ops / CI CD** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker · <img src="https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=github&logoColor=white" height="20"/> |
-| **AI / LLM** | <img src="https://img.shields.io/badge/-LangChain-00B3A4?style=flat-square&logo=data&logoColor=white" height="20"/> agentic / data-scraper workflows |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"> |
+| **Runtime** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"> |
+| **Back-end frameworks** | <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="20"> |
+| **Front-end frameworks** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"> |
+| **Libraries / Toolkits** | <img src="https://img.shields.io/badge/Entity Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"> <img src="https://img.shields.io/badge/LangChain-00B3A4?style=flat-square&logo=langchain&logoColor=white" height="20"> <img src="https://img.shields.io/badge/BullMQ-D72631?style=flat-square&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Hangfire-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"> <img src="https://img.shields.io/badge/n8n-F65A2A?style=flat-square&logo=n8n&logoColor=white" height="20"> |
+| **Messaging / Streaming** | <img src="https://img.shields.io/badge/NATS-258EA5?style=flat-square&logo=natsdotio&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="20"> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/MS SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="20"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"> |
+| **Caching** | <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="20"> |
+| **Dev-Ops / CI-CD** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20"> |
+| **AI / LLM** | <img src="https://img.shields.io/badge/LangChain-00B3A4?style=flat-square&logo=langchain&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Agentic-7952B3?style=flat-square&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Data Scraper-Workflows-FFB000?style=flat-square&logoColor=white" height="20"> |
 
 ---
 
@@ -57,9 +57,8 @@ Backend-first · Full-stack capable
 ---
 
 ## Let’s connect
-* **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  
-* **Email:** YOUR.EMAIL@example.com  
-* **Twitter:** [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
+* **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/muhammadumarakram1)  
+* **Twitter:** [@YOUR_HANDLE](https://twitter.com/umar_akram1)
 
 ---
 
