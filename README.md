@@ -52,9 +52,6 @@ Backend-first · Full-stack capable
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=muhammadumarakram1&show_icons=true&hide_border=true" height="150" alt="Stats" loading="lazy"/>
-    </td>
-    <td align="center">
       <img src="https://streak-stats.demolab.com?user=muhammadumarakram1&hide_border=true" height="150" alt="Streak" loading="lazy"/>
     </td>
     <td align="center">
