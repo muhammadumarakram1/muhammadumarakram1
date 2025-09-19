@@ -72,7 +72,7 @@ Backend-first · Full-stack capable
 
 ## Let’s connect
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" alt="LinkedIn">](https://linkedin.com/in/muhammadumarakram1)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" alt="LinkedIn">](https://www.linkedin.com/in/muhammadumarakram1)
 &nbsp;&nbsp;
 <a href="https://twitter.com/umar_akram1">
   <picture>
